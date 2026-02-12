@@ -54,6 +54,12 @@ A Streamlit application is built for real-time inference:
 
 \- SLA buffer added and risk tag displayed
 
+<img width="838" height="886" alt="App-input" src="https://github.com/user-attachments/assets/df31ec8f-017e-448b-91b7-63e00469bd64" />
+
+
+
+
+
 
 
 \## Tech Stack
